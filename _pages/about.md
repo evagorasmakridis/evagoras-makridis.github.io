@@ -1,17 +1,20 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Bio"
+excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Evagoras Makridis is a recent Master of Science (M.Sc.) graduate of [KTH Royal Institute of Technology](https://kth.se) and [Aalto University](https://www.aalto.fi), specializing in Autonomous Systems, and holding an excellence scholarship from [EIT Digital](https://www.eitdigital.eu). He received his Bachelor of Science (B.Sc.) degree in Electrical Engineering from the Department of Electrical Engineering, Computer Engineering and Informatics at [Cyprus University of Technology](https://www.cut.ac.cy) in June 2017. During his studies, he worked as an intern in both academia and industry. During his undergraduate studies, he worked as intern at the [Cyprus Ministry of Transport, Communications and Works](http://www.mcw.gov.cy), and at [SignalGenerix](https://www.signalgenerix.com), while after his B.Sc. graduation he worked as Research Assistant at the [University of Lincoln](https://www.lincoln.ac.uk) (United Kingdom) through the Erasmus+ placement, and at Aalto University (Finland). Following his B.Sc. degree, he joined [TRG Research and Development](https://www.trgint.com) as a Full-stack software developer until he admitted to his M.Sc. programme with EIT Digital when he moved to Finland and Aalto University to start his master studies. During this period of time he mainly worked in academia as a Research Assistant in both Aalto University and KTH Royal Institute of Technology, until he joined [Ericsson AB](https://www.ericsson.com/en) to pursue his M.Sc. thesis "Reinforcement Learning for Radio Resource Management in 5G-NR Networks".
+Evagoras Makridis received his B.Sc. degree in Electrical Engineering from [Cyprus University of Technology](https://www.cut.ac.cy) in June 2017, and his M.Sc. degree in Autonomous Systems from [KTH Royal Institute of Technology](https://kth.se) and [Aalto University](https://www.aalto.fi) holding an excellence scholarship from [EIT Digital](https://www.eitdigital.eu). After his B.Sc. graduation he worked as Research Assistant at the [University of Lincoln](https://www.lincoln.ac.uk) (United Kingdom) through the Erasmus+ placement, and at Aalto University (Finland), until he joined [TRG Research and Development](https://www.trgint.com) as a full-stack software developer. During his M.Sc. studies, he worked in academia as a Research Assistant in both Aalto University and KTH Royal Institute of Technology, as well as in industry with [Ericsson AB](https://www.ericsson.com/en) to pursue his M.Sc. thesis "Reinforcement Learning for Radio Resource Management in 5G-NR Networks".
+
+His research interests are in autonomous systems and more specifically in networked control systems, and reinforcement learning for resource management, with applications in quadrotor navigation, cloud computing, and 5G link adaptation.
 
 Latest news
 ------
+- February 2021 ~ Joined Suite5 Data Intelligence Ltd as ICT Researcher '
 - October 2020 ~ Successfully defended the M.Sc. thesis 'Reinforcement Learning for Radio Resource Management in 5G-NR Networks'
 - March 2020 ~ Accepted conference paper 'Towards Robust Onboard Control for Quadrotors via Ultra-Wideband-based Localization' at the International conference on Wireless Communications and Mobile Computing (IWCMC)
 - January 2020 ~ Accepted journal paper 'Robust Dynamic CPU Resource Provisioning in Virtualized Servers' in the IEEE Transactions on Services Computing (ToSC)

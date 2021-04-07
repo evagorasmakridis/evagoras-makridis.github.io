@@ -16,6 +16,8 @@ Education
 
 Work experience
 ------
+* Feb’21 – Onwards: ICT Researcher, Suite5 Data Intelligence Ltd
+ 
 * Aug’20 – Oct'20: Research Engineer Fellow, KTH Royal Institute of Technology
   * Reinforcement Learning for Multi-Agent Formation Control of UAVs
 
