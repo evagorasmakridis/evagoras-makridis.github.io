@@ -10,6 +10,7 @@ redirect_from:
 
 Education
 ------
+* Ph.D. in Electrical Engineering, University of Cyprus, 2021-onwards
 * M.Sc. in Autonomous Systems, KTH Royal Institute of Technology, (2nd year), 2019-2020
 * M.Sc. in Autonomous Systems, Aalto University, (1st year), 2018-2019
 * B.Sc. in Electrical Engineering, Cyprus University of Technology, 2013-2017
@@ -33,9 +34,6 @@ Work experience
 * Sep’17 – Jan’18: Research Assistant, University of Lincoln
   * Robust CPU resource provisioning in virtualized servers, Control of 3D crane system
 
-* Jun’17 – Jul’17: Research Trainee, Aalto University
-  * Dynamic CPU resource provisioning in virtualized servers
-
 * Jun’16 – Aug’16: Student Internship, SignalGeneriX Ltd
   * Design and development of a wireless power transfer receiver for wearables
 
@@ -58,7 +56,8 @@ Small Projects
   
 Activities and services
 ------
-+ IEEE 16th IWCMC 2020, Limassol, Cyprus, Referee service
++ IEEE 29th Mediterranean Conference on Control and Automation (MED) 2021, Referee service
++ IEEE 16th International Wireless Communications and Mobile Computing (IWCMC) 2020, Referee service
 + EIT Digital Summer School 2019, Bologna, Italy, Data-driven manufacturing for Industry 4.0
 + FLL, First Lego League 2017, Cyprus, Robotics practice table volunteer referee
 + Sergeant, National Guard of Cyprus, 2011-2013, 2 years military service
